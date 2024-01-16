@@ -1,6 +1,6 @@
 # React + Vite + TailwindCSS:
 
-![Uploading nikewebsite-gif.gif…]()
+![nikewebsite-gif](https://github.com/SofiaGenchi/nikewebsite/assets/92803854/e710c44d-603e-4bcd-8119-a98b4e27f3ae)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
